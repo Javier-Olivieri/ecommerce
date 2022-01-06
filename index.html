@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ECOMMERCE </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="contenedor">
+    <div class="contenido-productos">
+      <div id="titulo">
+        <h1>Tienda</h1>
+      </div>
+
+      <div>
+        <h3 class="texto">Listado de productos</h3>
+        <div class="buscador">
+          <form id="formulario-buscador">
+            <input autocomplete="off" id="buscador-producto" type="text" placeholder="Buscar un producto" name="producto">
+          </form>
+          <ul id="sugeridos"></ul>
+        </div>
+        <ul id="listado"></ul>
+      </div>
+    </div>
+    <button class="boton-canasta">C</button>
+    <div class="canasta" id="contenedor-general-canasta">
+      <h4>Canasta</h4>
+      <div id="canasta"></div>
+      <div class="total-canasta">
+        <p>Total a pagar</p>
+        <p id="total-pagar">$0</p>
+     
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="/canasta.js"></script>
+  <script src="/productos.js"></script>
+  <script src="/buscador.js"></script>
+</body>
+
+</html>

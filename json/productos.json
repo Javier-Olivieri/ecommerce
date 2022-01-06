@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "Apple Audífonos Airpods Pro",
+        "imagen": "https://images-v2.rappi.com/products/1714606-1625091090887.png?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "1,099900",
+        "precio": 1099900,
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Iphone Smartphone 8 - 64Gb Plata",
+        "imagen": "https://images-v2.rappi.com/products/1361644-1594861170449.png?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "2,229,900",
+        "precio": 2229900,
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Samsung Barra de Sonido - T450",
+        "imagen": "https://images-v2.rappi.com/products/2092713114-1604081074541.png?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "503,944",
+        "precio": 503944,
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "HiSense Televisor Led 43 Pulgadas Uhd Smart",
+        "imagen": "https://images-v2.rappi.com/products/1606800-1620921580395.png?d=240x240&?d=256xundefined&e=webp",
+        "precioLabel": "1,999,900",
+        "precio": 1999900,
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Televisor Samsung 65 4K UHD Smart TV 2021 Crystal UN65AU7000KXZL",
+        "imagen": "https://images-v2.rappi.com/products/1630515385638.jpg?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "3,185,941",
+        "precio": 3185941,
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Motorola Celular 4G Moto One Fusion 128 GB Verde",
+        "imagen": "https://images-v2.rappi.com/products/2092745348-1604933025553.png?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "704,953",
+        "precio": 704953,
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "iPhone 12 Pro Pacific Blue 256GbLae",
+        "imagen": "https://images-v2.rappi.com/products/2092713114-1604081074541.png?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "5,949,000",
+        "precio": 5949000,
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Apple Watch S6 44 SG AL Black SP Gps Bes",
+        "imagen": "https://images-v2.rappi.com/products/2092745752-1604937889381.png?d=240x240&?d=640xundefined&e=webp",
+        "precioLabel": "2,199,000",
+        "precio": 2199000,
+        "cantidad": 1
+    }
+  ]
